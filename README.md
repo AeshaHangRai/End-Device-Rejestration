@@ -1,4 +1,5 @@
 <h1>This is how you register your new end device using The Things Network console </h1>
+<h2>The url is also given below,click it </h2>
 <a href="https://www.thethingsindustries.com/docs/hardware/devices/adding-devices/" >https://www.thethingsindustries.com/docs/hardware/devices/adding-devices/</a>
 
 <h2>STEPS:</h2>
